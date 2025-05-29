@@ -10,7 +10,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Replace 'YOUR_BOT_TOKEN' with the token you got from BotFather
-BOT_TOKEN = '7559401125:AAGnGB0q4BlwpqTHzN0WYlW1Fit278MCBtU'
+BOT_TOKEN = ''
 
 # Command handlers
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
